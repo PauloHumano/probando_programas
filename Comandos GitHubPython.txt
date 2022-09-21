@@ -1,0 +1,29 @@
+
+py -m pip --version
+py -m pip list
+
+PRIMERO
+
+Crear carpeta
+crear README.md
+crear .gitignore
+
+$ git init
+git add .
+git commit -m "primer commit"
+git remote add origin https
+git branch -m main
+git push -m origin main
+
+en elCMD
+py -m pip install virtualenv
+$ py -m virtualenv env
+$ source env/Scripts/activate
+gitignore carpeta env
+
+instalar biblioteca pip
+$ pip install flash
+
+$ pip freeze > requeriment.txt
+
+pip install -r requirements.txt
